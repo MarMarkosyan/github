@@ -1,0 +1,9 @@
+$(...).each(function(){
+this == щкелемр
+$(this) == йбепх-щкелемр
+this.animate() --> ме пюанрюер
+$(this).animate() --> пюанрюер
+})
+
+
+https://github.com/Kira50/Work16/tree/site2/jQuery йХПЮ
